@@ -22,32 +22,7 @@
 - **Bypass Manager** – View all supported titles, set custom game paths, and inject/verify bypasses with progress feedback.
 - **Clean, modern UI** – Fast, animated, and easy to use. No unnecessary overhead.
 
----
 
-## 🚀 Getting Started
-
-1. **Download** the latest release from [Releases](https://github.com/onajlikezz/Nightlight-Game-Launcher/releases).
-2. **Enter your access key** – required to unlock the launcher.
-3. **Use the sidebar** to navigate between Home, Accounts, and Bypass.
-
-> 📺 **V5 tutorial** – coming soon (once I’ve finished building it!).
-
----
-
-## 💬 Community & Support
-
-- **Discord:** [Join the server](https://discord.gg/yXeWQ6arcq)
-- **Telegram:** `@onjlkz`
-
-If you’d like to support development, stay tuned – more options coming soon.
-
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="60">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60">
-  <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="60">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60">
